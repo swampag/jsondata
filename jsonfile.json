@@ -1,0 +1,17 @@
+[
+    {
+        "title": "recyclerview",
+        "body": "this is tutorial",
+        "image": "https://raw.githubusercontent.com/swampag/jsondata/main/pexels-alex-azabache-3214944.jpg"
+    },
+    {
+        "title": "recycleone",
+        "body": "this is tutorial",
+        "image": "https://raw.githubusercontent.com/swampag/jsondata/main/pexels-michael-block-3225517.jpg"
+    },
+    {
+        "title": "recycletwo",
+        "body": "this is tutorial",
+        "image": "https://raw.githubusercontent.com/swampag/jsondata/main/pexels-luis-dalvan-1770809.jpg"
+    }
+]
